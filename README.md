@@ -1,1 +1,1 @@
-# keuangan-peibadi
+# keuangan-pribadi
